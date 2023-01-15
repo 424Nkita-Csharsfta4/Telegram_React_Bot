@@ -2,6 +2,12 @@
 <a href="https://t.me/programisti_is_tirasa5_bot">Telegram bot</a>
 
 
+![image](https://user-images.githubusercontent.com/103760832/212536216-7a6dbc5a-bf33-49cc-9174-f9e7b37099d4.png)
+
+
+![image](https://user-images.githubusercontent.com/103760832/212536229-aa3d23a5-6589-4df6-8343-3998bfe338fb.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
