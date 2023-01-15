@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+<a href="https://t.me/programisti_is_tirasa5_bot">Telegram bot</a>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
