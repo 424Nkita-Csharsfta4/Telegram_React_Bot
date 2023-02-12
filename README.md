@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+
+Телеграм бот на React.js
+
 <a href="https://t.me/programisti_is_tirasa5_bot">Telegram bot</a>
 
 
